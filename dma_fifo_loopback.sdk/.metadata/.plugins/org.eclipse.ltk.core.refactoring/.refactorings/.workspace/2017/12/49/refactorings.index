@@ -1,0 +1,5 @@
+1512575856294	Delete resource 'dma_fifo_loopback/src/helloworld.c'
+1512575860032	Delete resource 'dma_fifo_loopback/src/platform.c'
+1512575862774	Delete resource 'dma_fifo_loopback/src/platform_config.h'
+1512575865664	Delete resource 'dma_fifo_loopback/src/platform.h'
+1512575869177	Delete resource 'dma_fifo_loopback/src/lscript.ld'

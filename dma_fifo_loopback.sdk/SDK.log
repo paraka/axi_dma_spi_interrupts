@@ -1,0 +1,35 @@
+16:56:53 INFO  : Processing command line option -hwspec /home/sergio/dma_fifo_loopback/dma_fifo_loopback.sdk/system_wrapper.hdf.
+16:56:59 INFO  : Launching XSDB server: xsdb -s /opt/Xilinx/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+16:58:48 INFO  : Successfully generated /home/sergio/dma_fifo_loopback/dma_fifo_loopback.sdk/dma_fifo_loopback/src/lscript.ld.
+16:58:48 INFO  : Applying linker script to all configurations of project dma_fifo_loopback.
+16:58:48 INFO  : Setting rebuild state to true for all configurations of project dma_fifo_loopback.
+17:10:17 INFO  : FPGA configured successfully with bitstream "/home/sergio/dma_fifo_loopback/dma_fifo_loopback.sdk/system_wrapper_hw_platform_0/system_wrapper.bit"
+17:10:52 INFO  : ps7_init is completed.
+17:10:52 INFO  : ps7_post_config is completed.
+17:10:52 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:14:46 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:16:47 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:18:42 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:18:53 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:20:17 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:23:30 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:25:19 INFO  : Processor reset is completed for ps7_cortexa9_0
+10:31:42 INFO  : Processor reset is completed for ps7_cortexa9_0
+10:51:08 INFO  : Processor reset is completed for ps7_cortexa9_0
+10:55:22 INFO  : Processor reset is completed for ps7_cortexa9_0
+10:58:31 INFO  : Processor reset is completed for ps7_cortexa9_0
+11:02:39 INFO  : Processor reset is completed for ps7_cortexa9_0
+11:07:41 INFO  : Processor reset is completed for ps7_cortexa9_0
+11:12:20 INFO  : Processor reset is completed for ps7_cortexa9_0
+11:21:41 INFO  : Processor reset is completed for ps7_cortexa9_0
+11:21:52 INFO  : Processor reset is completed for ps7_cortexa9_0
+11:24:57 INFO  : Processor reset is completed for ps7_cortexa9_0
+11:26:11 INFO  : Processor reset is completed for ps7_cortexa9_0
+11:27:35 INFO  : Processor reset is completed for ps7_cortexa9_0
+15:35:04 INFO  : Processor reset is completed for ps7_cortexa9_0
+15:35:11 INFO  : Processor reset is completed for ps7_cortexa9_0
+15:37:10 INFO  : Processor reset is completed for ps7_cortexa9_0
+15:39:15 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:14:57 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:15:06 INFO  : Processor reset is completed for ps7_cortexa9_0
+15:02:07 INFO  : Processor reset is completed for ps7_cortexa9_0
